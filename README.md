@@ -1,4 +1,4 @@
-Estudante de ADS e apaixonado pelas inúmeras possibilidades que a tecnologia nos proporciona.
+Estudante de Análise e Desenvolvimento de Sistemas e apaixonado pelas inúmeras possibilidades que a tecnologia nos proporciona.
 Procurando me destacar aprimorando meus conhecimentos no desenvolvimento Web, tanto no front como no back-end.
 
 And let's code some cool stuff!
