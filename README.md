@@ -3,7 +3,7 @@ Procurando me destacar aprimorando meus conhecimentos no desenvolvimento Web, ta
 
 And let's code some cool stuff! :rocket::rocket:
 
-![Linkedin Badge](https://img.shields.io/badge/Rafael%20Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelsgomes/) ![Github Badge](https://img.shields.io/badge/RafaelsGomes-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelsgomes) ![Gmail Badge](https://img.shields.io/badge/-rafaelsgomes.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelsgomes.dev@gmail)
+[![Linkedin Badge](https://img.shields.io/badge/Rafael%20Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelsgomes/)](https://www.linkedin.com/in/rafaelsgomes/) [![Github Badge](https://img.shields.io/badge/RafaelsGomes-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelsgomes)](https://github.com/rafaelsgomes) [![Gmail Badge](https://img.shields.io/badge/-rafaelsgomes.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelsgomes.dev@gmail)](mailto:rafaelsgomes.dev@gmail)
 
 ![Rafael Gomes's github stats](https://github-readme-stats.vercel.app/api?username=rafaelsgomes&show_icons=true&theme=dracula)
 
