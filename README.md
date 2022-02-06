@@ -1,4 +1,4 @@
-<img align="right" height="550em" src="https://raw.githubusercontent.com/gist/rafaelsgomes/54cae6fe1d3b7ca3365d9d5956dcec07/raw/c4511ccdd528a5f493245582be5825419433eacd/githubcard.svg"/>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/rafaelsgomes/54cae6fe1d3b7ca3365d9d5956dcec07/raw/c4511ccdd528a5f493245582be5825419433eacd/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="30px">, I'm Rafael Gomes</h1>
 
 - 🔥 Backend & Web Developer
@@ -23,10 +23,10 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=Yarn)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
+<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<br>
+
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafaelsgomes&show_icons=true&theme=shades-of-purple&alt=%22rafaelsgomes%27s%20stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsgomes&layout=compact&theme=shades-of-purple&alt="rafaelsgomes's most languages"/>
