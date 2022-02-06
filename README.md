@@ -1,4 +1,4 @@
-<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/rafaelsgomes/54cae6fe1d3b7ca3365d9d5956dcec07/raw/c4511ccdd528a5f493245582be5825419433eacd/githubcard.svg"/>
+<img align="right" height="570em" src="https://raw.githubusercontent.com/gist/rafaelsgomes/54cae6fe1d3b7ca3365d9d5956dcec07/raw/c4511ccdd528a5f493245582be5825419433eacd/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="30px">, I'm Rafael Gomes</h1>
 
 - 🔥 Backend & Web Developer
