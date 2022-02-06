@@ -28,8 +28,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafaelsgomes&show_icons=true&theme=shades-of-purple"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsgomes&layout=compact&theme=shades-of-purple"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafaelsgomes&show_icons=true&theme=shades-of-purple" alt="rafaelsgomes's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsgomes&layout=compact&theme=shades-of-purple" alt="rafaelsgomes's most languages"/>
 </p>
 
 <br>
